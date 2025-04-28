@@ -38,7 +38,7 @@ function StockChart({ stocks }) {
       },
       title: {
         display: true,
-        text: 'Live Stock Prices Overview',
+        text: 'Live Stock Prices Chart',
         font: {
           size: 24,
         },
